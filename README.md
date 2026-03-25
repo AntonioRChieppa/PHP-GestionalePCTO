@@ -27,7 +27,7 @@ Svilupperei il backend utilizzando **Java** e il framework **Spring Boot**.
 * **Gestione Database:** Utilizzerei **Spring Data JPA / Hibernate** per mappare gli oggetti relazionali (ORM) e gestire in modo automatizzato e sicuro l'interazione con il database, prevenendo vulnerabilità storiche come le SQL Injection.
 
 ### 3. Frontend & Pattern MVC
-Applicherei rigorosamente il pattern **MVC (Model-View-Controller)** sia a livello logico che di sviluppo UI. Per il frontend, adotterei un framework moderno per la creazione di una *Single Page Application (SPA)* (come React o Angular), che consumerebbe le API esposte da Spring Boot, garantendo una User Experience molto più fluida e reattiva rispetto al classico ricaricamento delle pagine PHP.
+Applicherei rigorosamente il pattern **MVC (Model-View-Controller)** sia a livello logico che di sviluppo UI. Per il frontend, adotterei un framework moderno per la creazione di una *Single Page Application (SPA)*, che consumerebbe le API esposte da Spring Boot, garantendo una User Experience molto più fluida e reattiva rispetto al classico ricaricamento delle pagine PHP.
 
 ---
 
